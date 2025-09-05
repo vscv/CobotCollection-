@@ -7,7 +7,7 @@ This repo focuses on the collection of collaborative robot videos.
 
 
 <div align="center">
-<img src="./images/Robot Classification_2914_image001.jpg" width="300"/>
+<img src="./images/Robot Classification_2914_image151.jpg" width="300"/>
 </div>
 
 # Table of collection
